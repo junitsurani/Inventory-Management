@@ -31,7 +31,7 @@ Follow these instructions to set up the project locally on your machine.
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/junitsurani/Inventory-Management.git
    cd inventory-management-system
    ```
 
